@@ -1,0 +1,21 @@
+{
+    "name": "mkhuramj/learning-behat",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Khuram Javed",
+            "email": "m.khuramj@gmail.com"
+        }
+    ],
+    "description": "Behat quick start example",
+    "require": {},
+    "require-dev": {
+        "behat/behat": "^3.8",
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    }
+}
