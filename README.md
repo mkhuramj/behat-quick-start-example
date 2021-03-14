@@ -9,3 +9,9 @@ This rerpository will be helpfull for someone who has just started learning the 
 * behat: ^3.8
 * phpunit: ^9.5
 * autoloading: psr-4
+
+
+## How to Use?
+* Clone the repo on your machine
+* Run the _composer install_ command in the root of the cloned repo
+* Run the _vendor/bin/behat_ to run the tests
